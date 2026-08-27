@@ -23,11 +23,11 @@ src/
     ContactPage.jsx         contact form
 ```
 
-## Run it
+## Run both frontend and backend
 
 ```bash
 npm install
-npm run dev
+npm run both
 ```
 
 Then open the printed local URL (typically http://localhost:5173).
