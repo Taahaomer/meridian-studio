@@ -12,8 +12,8 @@ import AddEmployee from "../components/AddEmployee"
  */
 
 
-const URL = "http://localhost:3000/"
-
+// const URL = "http://localhost:3000/"
+const URL = "https://meridian-studio-seven.vercel.app/"
 export default function AdminPage(props) {
 
 
